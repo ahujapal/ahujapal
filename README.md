@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ahujapal
 - 👀 I’m interested in Java and JavaScript!
-- 🌱 I’m currently learning Progressive Web Apps,
+- 🌱 I’m currently learning Progressive Web Apps.
 - 💞️ I’m looking to collaborate on projects that require backend skills.
 - 📫 How to reach me - ahujapalak62@gmail.com
 
